@@ -14,9 +14,9 @@ Problem sets completed for [CS229: Machine Learning](https://cs229.stanford.edu/
 * **Jupyter Notebook** or **JupyterLab** *(or Google Colab / VS Code)*
 
 ### Running the Notebooks
-1. Clone this repository: [https://github.com](https://github.com/hanange39/stanford-cs229-summer2026.git)
+1. Clone this repository:
    ```bash
-   [https://github.com](https://github.com/hanange39/stanford-cs229-summer2026.git)
+   https://github.com/hanange39/stanford-cs229-summer2026.git
    ```
 2. Navigate to the repository folder:
    ```bash
