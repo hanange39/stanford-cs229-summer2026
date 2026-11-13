@@ -16,7 +16,7 @@ Problem sets completed for [CS229: Machine Learning](https://cs229.stanford.edu/
 ### Running the Notebooks
 1. Clone this repository:
    ```bash
-   https://github.com/hanange39/stanford-cs229-summer2026.git
+   git clone https://github.com/hanange39/stanford-cs229-summer2026.git
    ```
 2. Navigate to the repository folder:
    ```bash
@@ -24,7 +24,7 @@ Problem sets completed for [CS229: Machine Learning](https://cs229.stanford.edu/
    ```
 3. Install common dependencies used across assignments:
    ```bash
-   pip install pandas numpy matplotlib scikit-learn scipy
+   pip install numpy pandas matplotlib scipy
    ```
 4. Launch Jupyter Notebook and open any assignment folder:
    ```bash
@@ -34,3 +34,4 @@ Problem sets completed for [CS229: Machine Learning](https://cs229.stanford.edu/
 ## Built With
 * **Python 3**
 * **Jupyter Notebook**
+* **Libraries:** `numpy`, `pandas`, `matplotlib`, `scipy`
