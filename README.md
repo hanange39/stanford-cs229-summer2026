@@ -34,4 +34,3 @@ Problem sets completed for [CS229: Machine Learning](https://cs229.stanford.edu/
 ## Built With
 * **Python 3**
 * **Jupyter Notebook**
-* **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`
